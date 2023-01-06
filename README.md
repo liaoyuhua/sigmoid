@@ -1,4 +1,4 @@
-<div align=center> <image src="./logo.png" style="zoom:25%;"> </div>
+<div align=center> <image src="./logo.png" style="zoom:4%;"> </div>
 
 *Notice: This project is still on the early stage of development.*
 
